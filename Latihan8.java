@@ -1,3 +1,10 @@
+/**
+ * Latihan8
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Pecahan
+ */
 public class Latihan8 {
     
     public static void main(String[] args) {
